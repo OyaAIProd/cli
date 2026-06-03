@@ -1,5 +1,6 @@
 # pushtodisplay
 
+[![SafeSkill 20/100](https://img.shields.io/badge/SafeSkill-20%2F100_Blocked-red)](https://safeskill.dev/scan/getmcpm-cli)
 Command-line interface and [MCP server](https://modelcontextprotocol.io) for [Push To Display](https://pushtodisplay.com) — send real-time updates to display boards from your terminal or AI agents.
 
 <p align="center">
